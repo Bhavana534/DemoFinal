@@ -10,5 +10,7 @@ public class demo1 {
 	@Test
 	public void T_01() {
 		System.out.println("Test one pass");
+		
+		System.out.println("Test one pass");
 	}
 }
